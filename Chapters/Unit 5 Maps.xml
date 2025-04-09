@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>Maps</B>]]></text>
+<text><![CDATA[Drag the physical features to their correct location on the map.]]></text>
+
+
+<text><![CDATA[<B>Submit</B>]]></text>
+<text><![CDATA[<B>Hints</B>]]></text>
+
+<!-- option -->
+
+<option><![CDATA[Thar Desert]]></option>
+<option><![CDATA[Karakoram Range]]></option>
+<option><![CDATA[River Indus]]></option>
+<option><![CDATA[Cholistan Desert]]></option>
+<option><![CDATA[Himalayas]]></option>
+<option><![CDATA[Balochistan Plateau]]></option>
+<option><![CDATA[River Jhelum]]></option>
+<option><![CDATA[Safed Koh]]></option>
+<option><![CDATA[River Sutlej]]></option>
+<option><![CDATA[Kirthar Range]]></option>
+
+
+
+
+<!-- feedback -->
+<feedback><![CDATA[That's correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct! Try again!]]></feedback>
+<feedback><![CDATA[Oops! That is wrong too.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[Congratulations! You are marvellous!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[Here's the correct answer.]]></feedback>
+</data>
+</framexml>

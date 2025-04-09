@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Chapters -->
+<framexml>
+<data>
+<unit>
+	<Num><![CDATA[01]]></Num>
+	<name><![CDATA[Unit 1]]></name>
+	<chapterName><![CDATA[Unit 1: IslamabadPeshawar]]></chapterName>
+	<main><![CDATA[chapters/Unit 1 IslamabadPeshawar.swf]]></main>	
+</unit>
+
+<unit>
+	<Num><![CDATA[03]]></Num>
+	<name><![CDATA[Unit 3]]></name>
+	<chapterName><![CDATA[Unit 3: Mountains]]></chapterName>
+	<main><![CDATA[Chapters/Unit 3 Mountains.swf]]></main>	
+</unit>
+<unit>
+	<Num><![CDATA[04]]></Num>
+	<name><![CDATA[Unit 4]]></name>
+	<chapterName><![CDATA[Unit 4: Rubbish and recycling]]></chapterName>
+	<main><![CDATA[Chapters/Unit 4 Rubbish and Recycle.swf]]></main>	
+</unit>
+
+<unit>
+	<Num><![CDATA[05]]></Num>
+	<name><![CDATA[Unit 5]]></name>
+	<chapterName><![CDATA[Unit 5: Maps]]></chapterName>
+	<main><![CDATA[Chapters/Unit 5 Maps.swf]]></main>	
+</unit>
+
+<unit>
+	<Num><![CDATA[07]]></Num>
+	<name><![CDATA[Unit 7]]></name>
+	<chapterName><![CDATA[Unit 7: The Indus Valley Gandhara Civilizations]]></chapterName>
+	<main><![CDATA[Chapters/Unit 7 Indus Valley Gandhara Civilizations.swf]]></main>
+</unit>
+
+
+<unit>
+	<Num><![CDATA[09]]></Num>
+	<name><![CDATA[Unit 9]]></name>
+	<chapterName><![CDATA[Unit 9: Ancient Egypt]]></chapterName>
+	<main><![CDATA[Chapters/Unit 9 Ancient Egypt.swf]]></main>
+</unit>
+
+
+<unit>
+	<Num><![CDATA[12]]></Num>
+	<name><![CDATA[Unit 12]]></name>
+	<chapterName><![CDATA[Unit 12: Being a good citizen]]></chapterName>
+	<main><![CDATA[Chapters/Unit 12 Being a good citizen.swf]]></main>
+</unit>
+
+<unit>
+	<Num><![CDATA[12]]></Num>
+	<name><![CDATA[Unit 12]]></name>
+	<chapterName><![CDATA[Unit 12: Being a good citizen]]></chapterName>
+	<main><![CDATA[Chapters/Unit 12 Kindness.swf]]></main>
+</unit>
+
+
+<mainFrame>
+	<text><![CDATA[Units 1 and 2: Islamabad/Peshawar]]></text>
+	<text><![CDATA[Unit 3: Mountains]]></text>
+	<text><![CDATA[Unit 4: Rubbish and recycling]]></text>
+	<text><![CDATA[Unit 5: Maps]]></text>
+	<text><![CDATA[Units 7 and 8: The Indus Valley/Gandhara Civilizations]]></text>
+	<text><![CDATA[Units 9, 10, and 11: Ancient Egypt/Ancient Greece/Ancient China]]></text>
+	<text><![CDATA[Unit 12: Being a good citizen]]></text>
+	<text><![CDATA[Unit 12: Being a good citizen]]></text>
+</mainFrame>
+
+</data>
+</framexml>

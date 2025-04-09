@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>Mountains</B>]]></text>
+<text><![CDATA[Find the words in the word grid. Use the clues to help you.]]></text>
+<text><![CDATA[Click the letters to select and complete the words. If you click the wrong letter, click it again to undo.]]></text>
+
+<text><![CDATA[<B>Submit</B>]]></text>
+<text><![CDATA[<B>Hint</B>]]></text>
+
+<!-- number -->
+
+<number><![CDATA[O]]></number>
+<number><![CDATA[K]]></number>
+<number><![CDATA[H]]></number>
+<number><![CDATA[U]]></number>
+<number><![CDATA[N]]></number>
+<number><![CDATA[J]]></number>
+<number><![CDATA[E]]></number>
+<number><![CDATA[R]]></number>
+<number><![CDATA[A]]></number>
+<number><![CDATA[B]]></number>
+
+<number><![CDATA[K]]></number>
+<number><![CDATA[P]]></number>
+<number><![CDATA[I]]></number>
+<number><![CDATA[G]]></number>
+<number><![CDATA[Z]]></number>
+<number><![CDATA[X]]></number>
+<number><![CDATA[I]]></number>
+<number><![CDATA[N]]></number>
+<number><![CDATA[K]]></number>
+<number><![CDATA[2]]></number>
+
+<number><![CDATA[I]]></number>
+<number><![CDATA[E]]></number>
+<number><![CDATA[A]]></number>
+<number><![CDATA[N]]></number>
+<number><![CDATA[D]]></number>
+<number><![CDATA[E]]></number>
+<number><![CDATA[S]]></number>
+<number><![CDATA[X]]></number>
+<number><![CDATA[A]]></number>
+<number><![CDATA[H]]></number>
+
+<number><![CDATA[D]]></number>
+<number><![CDATA[R]]></number>
+<number><![CDATA[G]]></number>
+<number><![CDATA[A]]></number>
+<number><![CDATA[C]]></number>
+<number><![CDATA[B]]></number>
+<number><![CDATA[M]]></number>
+<number><![CDATA[M]]></number>
+<number><![CDATA[R]]></number>
+<number><![CDATA[U]]></number>
+
+<number><![CDATA[K]]></number>
+<number><![CDATA[U]]></number>
+<number><![CDATA[D]]></number>
+<number><![CDATA[A]]></number>
+<number><![CDATA[G]]></number>
+<number><![CDATA[A]]></number>
+<number><![CDATA[W]]></number>
+<number><![CDATA[A]]></number>
+<number><![CDATA[A]]></number>
+<number><![CDATA[N]]></number>
+
+<number><![CDATA[H]]></number>
+<number><![CDATA[A]]></number>
+<number><![CDATA[D]]></number>
+<number><![CDATA[O]]></number>
+<number><![CDATA[B]]></number>
+<number><![CDATA[E]]></number>
+<number><![CDATA[A]]></number>
+<number><![CDATA[R]]></number>
+<number><![CDATA[K]]></number>
+<number><![CDATA[Z]]></number>
+
+<number><![CDATA[Y]]></number>
+<number><![CDATA[R]]></number>
+<number><![CDATA[P]]></number>
+<number><![CDATA[A]]></number>
+<number><![CDATA[G]]></number>
+<number><![CDATA[G]]></number>
+<number><![CDATA[S]]></number>
+<number><![CDATA[K]]></number>
+<number><![CDATA[O]]></number>
+<number><![CDATA[A]]></number>
+
+<number><![CDATA[B]]></number>
+<number><![CDATA[O]]></number>
+<number><![CDATA[P]]></number>
+<number><![CDATA[A]]></number>
+<number><![CDATA[S]]></number>
+<number><![CDATA[S]]></number>
+<number><![CDATA[S]]></number>
+<number><![CDATA[H]]></number>
+<number><![CDATA[R]]></number>
+<number><![CDATA[S]]></number>
+
+<number><![CDATA[E]]></number>
+<number><![CDATA[H]]></number>
+<number><![CDATA[B]]></number>
+<number><![CDATA[A]]></number>
+<number><![CDATA[S]]></number>
+<number><![CDATA[P]]></number>
+<number><![CDATA[Y]]></number>
+<number><![CDATA[O]]></number>
+<number><![CDATA[A]]></number>
+<number><![CDATA[I]]></number>
+
+<number><![CDATA[R]]></number>
+<number><![CDATA[I]]></number>
+<number><![CDATA[H]]></number>
+<number><![CDATA[A]]></number>
+<number><![CDATA[Z]]></number>
+<number><![CDATA[U]]></number>
+<number><![CDATA[U]]></number>
+<number><![CDATA[R]]></number>
+<number><![CDATA[M]]></number>
+<number><![CDATA[K]]></number>
+
+<!-- Hints -->
+<hint><![CDATA[This mountain range has the largest number of tall peaks of any mountain range in the world.]]></hint>
+<hint><![CDATA[the second tallest mountain in the world]]></hint>
+<hint><![CDATA[a route through a mountain range]]></hint>
+<hint><![CDATA[type of brick made from clay and dried hard in the sun]]></hint>
+<hint><![CDATA[the mountain pass that links Pakistan and Afghanistan]]></hint>
+<hint><![CDATA[the longest mountain range in the world]]></hint>
+<hint><![CDATA[an endangered animal found in the northern mountains of Pakistan]]></hint>
+<hint><![CDATA[People living in this area of Pakistan are some of the healthiest people in the world.]]></hint>
+<hint><![CDATA[Llamas are mountain animals found in ______.]]></hint>
+<hint><![CDATA[the mountain pass that links Pakistan and China]]></hint>
+
+<!-- numeric -->
+<numeric><![CDATA[1.]]></numeric>
+<numeric><![CDATA[2.]]></numeric>
+<numeric><![CDATA[3.]]></numeric>
+<numeric><![CDATA[4.]]></numeric>
+<numeric><![CDATA[5.]]></numeric>
+<numeric><![CDATA[6.]]></numeric>
+<numeric><![CDATA[7.]]></numeric>
+<numeric><![CDATA[8.]]></numeric>
+<numeric><![CDATA[9.]]></numeric>
+<numeric><![CDATA[10.]]></numeric>
+
+
+<!-- feedback -->
+<feedback><![CDATA[That's correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct! Try again!]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[Congratulation! You are marvellous!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[Here's the correct answer.]]></feedback>
+</data>
+</framexml>

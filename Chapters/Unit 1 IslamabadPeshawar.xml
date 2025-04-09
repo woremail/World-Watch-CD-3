@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>Islamabad/Peshawar</B>]]></text>
+<text><![CDATA[In which Pakistani city is this located? Click the correct answer.]]></text>
+
+<text><![CDATA[Islamabad]]></text>
+<text><![CDATA[Peshawar]]></text>
+
+<main><![CDATA[Colour Sindh pink.]]></main>
+<main><![CDATA[Now colour Punjab blue.]]></main>
+<main><![CDATA[Colour Balochistan yellow.]]></main>
+<main><![CDATA[Colour Khyber Pakhtunkhwa green.]]></main>
+
+<caption><![CDATA[Margalla Hills]]></caption>
+<caption><![CDATA[National Monument   Shakarparian Hills]]></caption>
+<caption><![CDATA[Daman-e-Koh Park]]></caption>
+<caption><![CDATA[Shah Faisal Mosque]]></caption>
+<caption><![CDATA[Parliament House]]></caption>
+<caption><![CDATA[Gate of the Khyber Pass]]></caption>
+<caption><![CDATA[Warsak Dam]]></caption>
+<caption><![CDATA[Mahabat Khan Mosque]]></caption>
+<caption><![CDATA[Yadgar Chowk]]></caption>
+<caption><![CDATA[Islamia College]]></caption>
+
+<!-- feedback -->
+<feedback><![CDATA[That's correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct!]]></feedback>
+<feedback><![CDATA[Here's the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[That's excellent! Congratulations!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+</data>
+`

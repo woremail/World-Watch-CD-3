@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>Indus Valley/Gandhara Civilizations</B>]]></text>
+<text><![CDATA[Rearrange the letters to form a meaningful word. Use the clue to help you. Click submit to check your answer.]]></text>
+<text><![CDATA[Hint]]></text>
+<text><![CDATA[Submit]]></text>
+
+
+<!-- Options -->
+<optn><![CDATA[ATRCHOGIOLESA]]></optn>
+<optn><![CDATA[HAPARAP]]></optn>
+<optn><![CDATA[MROENJOHODA]]></optn>
+<optn><![CDATA[SLASE]]></optn>
+<optn><![CDATA[NPAEL]]></optn>
+<optn><![CDATA[TILXAA]]></optn>
+<optn><![CDATA[MRAYAUN]]></optn>
+<optn><![CDATA[SPUAT]]></optn>
+<optn><![CDATA[AKAOSH]]></optn>
+<optn><![CDATA[BDHIMDUS]]></optn>
+
+<!-- Hints -->
+<hint><![CDATA[A person who digs and searches for buried buildings and objects to learn about the past]]></hint>
+<hint><![CDATA[2. A city in the Indus Valley]]></hint>
+<hint><![CDATA[3. The streets of this city had a grid pattern.]]></hint>
+<hint><![CDATA[These tiles with carved pictures were found in the ruins of Mohenjo-Daro.]]></hint>
+<hint><![CDATA[5. The country where Prince Siddhartha Gautama was born]]></hint>
+<hint><![CDATA[6. This old city was made up of three cities.]]></hint>
+<hint><![CDATA[7. This empire was founded in about 321 BCE.]]></hint>
+<hint><![CDATA[8. A holy building for Buddhists]]></hint>
+<hint><![CDATA[9. Chandragupta Maurya's grandson]]></hint>
+<hint><![CDATA[10. The religion Ashoka followed]]></hint>
+
+<!-- feedback -->
+<feedback><![CDATA[That's correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct! Try again!]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good try!]]></feedback>
+<feedback><![CDATA[Congratulations! You've done well!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[Here's the correct answer.]]></feedback>
+</data>
+</framexml>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>Activity 1 Being a good citizen</B>]]></text>
+<text><![CDATA[Is the action fair or unfair? Click to answer.]]></text>
+<text><![CDATA[Fair act]]></text>
+<text><![CDATA[Unfair act]]></text>
+
+
+
+
+<!-- feedback -->
+<feedback><![CDATA[That's correct! Well done! ]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct. ]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct. ]]></feedback>
+<feedback><![CDATA[I'm sure you'll do better next time!]]></feedback>
+<feedback><![CDATA[Not bad!]]></feedback>
+<feedback><![CDATA[Great score. Congratulations! ]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[This is the correct answer.]]></feedback>
+</data>
+</framexml>
+
+
+

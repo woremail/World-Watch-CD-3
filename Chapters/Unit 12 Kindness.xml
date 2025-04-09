@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>Activity 2 Kindness</B>]]></text>
+<text><![CDATA[Is this a kind act or an unkind act? Click the correct answer.]]></text>
+<text><![CDATA[Kind act]]></text>
+<text><![CDATA[Unkind act]]></text>
+
+<!-- OST -->
+
+<option><![CDATA[Talal shared his lunch with Bilal who had forgotten his own.]]></option>
+<option><![CDATA[Vijay helped his teacher to carry a stack of books.]]></option>
+<option><![CDATA[Fatima told her mother that she could not help her in the kitchen because she was playing a game.]]></option>
+<option><![CDATA[Arif was upset with his brother and pushed him.]]></option>
+<option><![CDATA[Jenny found a stray cat that had lost its mother. She gave it some milk.]]></option>
+<option><![CDATA[Maha invited all the girls in her class to her birthday, except one.]]></option>
+<option><![CDATA[Rehan was walking along a path when he tripped and fell. The group standing nearby started laughing.]]></option>
+<option><![CDATA[Tanya saw a poor girl as she was buying ice cream. She returned it to buy two ice lollies. She gave one to the poor girl.]]></option>
+
+<!-- feedback -->
+<feedback><![CDATA[That's correct! Well done!]]></feedback>
+<feedback><![CDATA[This is the correct answer.]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct.]]></feedback>
+<feedback><![CDATA[This is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[Fantastic!]]></feedback>
+<feedback><![CDATA[This is the correct answer.]]></feedback>
+</data>
+</framexml>

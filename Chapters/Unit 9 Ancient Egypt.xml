@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>Ancient Egypt/Ancient Greece/Ancient China</B>]]></text>
+<text><![CDATA[Look at the word on your screen. Which country is it related to? Click the correct dock.]]></text>
+
+
+
+<!-- OST -->
+
+<option><![CDATA[Talal shared his lunch with Bilal who had forgotten his own.]]></option>
+<option><![CDATA[Vijay helped his teacher to carry a stack of books.]]></option>
+<option><![CDATA[Fatima told her mother that she could not help her in the kitchen because she was playing a game.]]></option>
+<option><![CDATA[Arif was upset with his brother and pushed him.]]></option>
+<option><![CDATA[Rita, a girl found a stray kitten that had lost its mother. She gave it some milk.]]></option>
+<option><![CDATA[Maha invited all the girls in her class to her birthday, except one girl.]]></option>
+
+
+<!-- question -->
+
+<question><![CDATA[Pharoah]]></question>
+<question><![CDATA[Trojan horse]]></question>
+<question><![CDATA[Olympic games]]></question>
+<question><![CDATA[Qin Shi Huang]]></question>
+<question><![CDATA[Silk Road]]></question>
+<question><![CDATA[Tutankhamun]]></question>
+<question><![CDATA[River Nile]]></question>
+<question><![CDATA[Pyramids of Giza]]></question>
+<question><![CDATA[Zeus]]></question>
+<question><![CDATA[River Yangtze]]></question>
+<question><![CDATA[mummy]]></question>
+
+
+
+
+
+<!-- feedback -->
+<feedback><![CDATA[That's good! Now try this one!]]></feedback>
+<feedback><![CDATA[Not really. Please try again.]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too!]]></feedback>
+<feedback><![CDATA[I'm sure you'll do better next time!]]></feedback>
+<feedback><![CDATA[Good try!]]></feedback>
+<feedback><![CDATA[Congratulations! That's brilliant!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[Here's the correct answer.]]></feedback>
+<feedback><![CDATA[That's good!]]></feedback>
+</data>
+</framexml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>Rubbish and recycle</B>]]></text>
+<text><![CDATA[Drag and drop the recyclable items from this rubbish pile into the rubbish bin.]]></text>
+
+
+
+
+
+
+<!-- feedback -->
+<feedback><![CDATA[That's correct! Well done!]]></feedback>   <!-- Final -->
+<feedback><![CDATA[Oh no! That's not correct!]]></feedback>		<!-- Final -->
+
+<feedback><![CDATA[Oops! That is wrong too.]]></feedback>
+
+<feedback><![CDATA[I'm sure, you'll do better next time!]]></feedback>		<!-- Final -->
+
+<feedback><![CDATA[Good job!]]></feedback> 		<!-- Final -->
+<feedback><![CDATA[Congratulations! Fantastic score!]]></feedback> 		<!-- Final -->
+<feedback><![CDATA[Score:]]></feedback> 		<!-- Final -->
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct]]></feedback>
+</data>
+</framexml>
