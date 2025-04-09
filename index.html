@@ -14,12 +14,6 @@
         h1 {
             margin: 0; /* Remove extra margin */
         }
-
-        button {
-            margin: 10px;
-            padding: 10px 20px;
-            font-size: 16px;
-        }
     </style>
 </head>
 <body>
@@ -27,28 +21,5 @@
     <script src="ruffle.js"></script>
 
     <object id="flashGame" data="Play.swf" width="800" height="450"></object>
-
-    <div>
-        <button id="playButton">Play</button>
-        <button id="pauseButton">Pause</button>
-    </div>
-
-    <script>
-        const flashGame = document.getElementById('flashGame');
-        const playButton = document.getElementById('playButton');
-        const pauseButton = document.getElementById('pauseButton');
-
-        playButton.addEventListener('click', () => {
-            if (flashGame) {
-                flashGame.play(); // Attempts to play the Flash content
-            }
-        });
-
-        pauseButton.addEventListener('click', () => {
-            if (flashGame) {
-                flashGame.pause(); // Attempts to pause the Flash content
-            }
-        });
-    </script>
 </body>
 </html>
